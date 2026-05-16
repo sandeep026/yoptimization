@@ -21,7 +21,7 @@ $$\dot{x_3}(t) = 5 x_1^2 + 2.5 x_2^2 + 0.5 u^2$$
 
 $$d = 100 \cdot [U(t-0.5)-U(t-0.6)]$$
 
-Where U is the unit step function so that $$U(t-\alpha) = 0$$ when $$t < \alpha$$ and $$U(t-\alpha) = 0$$ when $$t > \alpha$$.
+Where U is the unit step function so that $$U(t-\alpha) = 0$$ when $$t < \alpha$$ and $$U(t-\alpha) = 1$$ when $$t > \alpha$$.
 
 $$x_1(0)=0$$
 
